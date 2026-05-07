@@ -66,8 +66,8 @@ I am a Geologist turned Data Scientist and Environmental Planner, specializing a
 
     ---
 
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
+    - Python — GeoPandas, NumPy, Pandas, Matplotlib, Scikit-learn
+    - R — xts, gstat, ggplot2
     - JavaScript — Leaflet, MapLibre GL
     - SQL, PostgreSQL + PostGIS
 
@@ -99,8 +99,8 @@ I am a Geologist turned Data Scientist and Environmental Planner, specializing a
 
 -   :material-airplane:{ .lg .middle } **ggjgjgjgj / Uglglgfkdk**
 
-    - M
-    - P
+    - Adobe, Canva, Krita
+    - DataVis
     - P
 </div>
 
