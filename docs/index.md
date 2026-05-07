@@ -18,10 +18,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="[Alda Hysenbelliu]" class="profile-photo">
+  <h1>[Alda Hysenbelliu]</h1>
+  <p><strong>[Environmental Geoscience Planner]</strong></p>
+  <p><em>[YOUR TAGLINE — e.g., From rocks to code: Transforming Environmental data into actionable insights | GIS | Remote Sensing | Python]</em></p>
 </div>
 
 ---
@@ -35,12 +35,7 @@ CHECKLIST FOR THIS PAGE:
 what you specialize in, the kinds of problems you work on, the tools and methods you use,
 and what you are currently looking for. Example below:]
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
-
+I am a Geologist turned Data Scientist and Environmental Planner, specializing at the intersection of EO, ML, and Climate Adaptation. I tackle real-world environmental problems—such as predicting drinking water quality, mapping Urban Heat Islands from satellite imagery, assessing flood risks under CC, and designing sustainable tourism solutions—using a diverse toolkit that includes Python (Pandas, Scikit-learn, XGBoost, RandomForest), GIS, remote sensing, and statistical modeling. I am currently seeking opportunities in [Data Science / Environmental Analytics / Climate Resilience] in the planet Earth where I can transform complex environmental data into actionable insights for safer, greener, and more resilient communities. 
 </div>
 
 <div class="about-image">
@@ -105,7 +100,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
     - Cloud storage: AWS S3, Google Cloud Storage
     - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+-   :material-airplane:{ .lg .middle } **ggjgjgjgj / Uglglgfkdk**
 
     - Mission planning and flight operations
     - Photogrammetry: Agisoft Metashape, OpenDroneMap
@@ -117,5 +112,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/[jesogeo]){ .md-button }
+[LinkedIn](https://linkedin.com/in/[drinaldah]){ .md-button }
