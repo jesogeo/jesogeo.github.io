@@ -31,9 +31,6 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
 
 I am a Geologist turned Data Scientist and Environmental Planner, specializing at the intersection of EO, ML, and Climate Adaptation. I tackle real-world environmental problems—such as predicting drinking water quality, mapping Urban Heat Islands from satellite imagery, assessing flood risks under CC, and designing sustainable tourism solutions—using a diverse toolkit that includes Python (Pandas, Scikit-learn, XGBoost, RandomForest), GIS, remote sensing, and statistical modeling. I am currently seeking opportunities in [Data Science / Environmental Analytics / Climate Resilience] in the planet Earth where I can transform complex environmental data into actionable insights for safer, greener, and more resilient communities. 
 </div>
@@ -60,8 +57,8 @@ I am a Geologist turned Data Scientist and Environmental Planner, specializing a
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
+    - QGIS, Google Earth Engine
+    - GDAL 
     - Multispectral and SAR image analysis
     - Cloud Native Geospatial (COG, STAC, Zarr)
 
@@ -79,17 +76,17 @@ I am a Geologist turned Data Scientist and Environmental Planner, specializing a
     ---
 
     - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
+    - Unsupervised classification
+    - Scikit-learn, PyTorch, TensorFlow
     - Object detection in satellite imagery
 
 -   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
     ---
 
-    - Leaflet.js, Folium, MapLibre GL JS
+    - Leaflet.js, Folium, MapLibre Angular Java JS
     - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
+    - Data formats — GeoTIFF, GeoParquet
     - Streamlit for data-driven web apps
 
 -   :material-database:{ .lg .middle } **Data & Cloud**
@@ -98,13 +95,13 @@ I am a Geologist turned Data Scientist and Environmental Planner, specializing a
 
     - PostgreSQL + PostGIS
     - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - Data formats: GeoJSON, GeoTIFF, Zarr, GeoParquet
 
 -   :material-airplane:{ .lg .middle } **ggjgjgjgj / Uglglgfkdk**
 
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    - M
+    - P
+    - P
 </div>
 
 
