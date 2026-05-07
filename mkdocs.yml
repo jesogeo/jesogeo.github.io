@@ -4,7 +4,7 @@
 # ============================================================
 
 site_name: "[Alda's] - Geospatial Portfolio"
-site_description: "Portfolio of [Alda] — GIS, Remote Sensing, and Spatial Data Science"
+site_description: "Portfolio of [Alda] — Geologist, Urban and Environmental Planner, GIS, Remote Sensing, and Spatial Data Science"
 site_author: "[Alda Hysenbelliu]"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
 site_url: "https://jesogeo.github.io/"
@@ -22,16 +22,16 @@ theme:
     # Available colors: red, pink, purple, deep purple, indigo, blue, light blue,
     # cyan, teal, green, light green, lime, yellow, amber, orange, deep orange
     - scheme: default            # Light mode
-      primary: indigo
-      accent: blue
+      primary: brown
+      accent: deep orange
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-sunny
         name: Switch to dark mode
     - scheme: slate              # Dark mode
-      primary: indigo
-      accent: blue
+      primary: blue grey
+      accent: amber
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-night
         name: Switch to light mode
   features:
     - navigation.tabs            # Top-level nav items shown as horizontal tabs
