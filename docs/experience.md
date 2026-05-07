@@ -44,15 +44,21 @@ CHECKLIST FOR THIS PAGE:
 
 ## Education
 
-### [YOUR DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### [Bachelor of Science] in [Geological Science]
+**[Università degli studi di Padova]** | *[2010]*
 
 [Optional: one sentence about your thesis, specialization, or coursework if relevant]
 
 ---
 
-### [YOUR PREVIOUS DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### [Masters Degree in Planning and Policies for Cities,Environment and Landscape] in [New Technologies for Planning]
+**[Università di Venezia,IUAV]** 
+
+### [Master in Data Science] 
+**[Neural Academy]** | *[2023]*
+
+### [Professional Course in Full Stack Developer] in [Web Development]
+**[LabForWeb]** | *[2025]*
 
 ---
 
