@@ -18,54 +18,46 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="timeline-entry" markdown>
 
-### [YOUR JOB TITLE] — [YOUR COMPANY / ORGANIZATION]
-*[Month Year] – [Month Year or Present] | [City, Country]*
+### Full Stack Developer & Data Analyst 
+*[Continuous skill development] | (VE), Italy*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Built complete web applications handling both front-end (client-side) and back-end (server-side) development, as well as database management, using JavaScript, TypeScript, Angular, Node.js, Python, and SQL
+- Analysed drinking water quality datasets using manipulation and visualisation techniques in Data Science, completing exploratory analysis (ETL, EDA), setting up prediction problems, training ML models (RandomForest, XGBoost), and performing model evaluation
+- Analysed structural geology and hydrogeology data to find relationships and bring data into maps using geospatial and geostatistical techniques for prediction of Earth hazards and risk assessment
 
 </div>
 
 <div class="timeline-entry" markdown>
 
-### [YOUR PREVIOUS JOB TITLE] — [YOUR PREVIOUS COMPANY]
-*[Month Year] – [Month Year] | [City, Country]*
+### Environmental Planning & Geospatial Analyst — Academic Projects
+*2018 – 2020 | IUAV University of Venice, Italy*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
-
-</div>
+- Studied environmental planning techniques to adapt cities for reducing and managing flood risk from climate change, analysing international policies and social, environmental, and economic impacts
+- Located high temperature spots (Urban Heat Islands) in canopy layer of Venice and Vicenza by creating isotherm maps from multispectral images and aggregating pixels to extract Normalized Difference Vegetation Index (NDVI)
+- Calculated land consumption by analysing satellite images using GIS software, assigning correct land consumption types to Beijing urban area to improve city environment quality, and creating reports with GIS maps
 
 </div>
 
----
+</div>
 
 ## Education
 
-### [Bachelor of Science] in [Geological Science]
-**[Università degli studi di Padova]** | *[2010]*
+### Professional Course in Full Stack Developer
+**LabForWeb** | *2024 – Oct 2025*
 
-[Optional: one sentence about your thesis, specialization, or coursework if relevant]
+### Master in Data Science
+**Neural Academy** | *2022 – July 2023*
 
----
+### Master's Degree Course in Planning and Policies for Cities, Environment and Landscape - New Technologies for Planning
+**IUAV University of Venice (Università Iuav di Venezia, Italy)** | *2018*
 
-### [Masters Degree in Planning and Policies for Cities,Environment and Landscape] in [New Technologies for Planning]
-**[Università di Venezia,IUAV]** 
+### Bachelor of Science (BSc) in Geological Sciences
+**University of Padua (Università degli Studi di Padova, Italy)** | *2010*
 
-### [Master in Data Science] 
-**[Neural Academy]** | *[2023]*
+## Certifications & Key Courses
 
-### [Professional Course in Full Stack Developer] in [Web Development]
-**[LabForWeb]** | *[2025]*
-
----
-
-## Certifications
-
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-
-*Examples: QGIS Certification, PMP Certification, AWS Certified Cloud Practitioner*
+- **Full Stack Development** — LabforWeb, 2025 (Technologies: JavaScript, TypeScript, Angular, HTML5, CSS3, Sass, Node.js, Python, Java, SQL (MySQL, PostgreSQL), Docker, GitHub Actions, GitLab, RESTful APIs, microservices)
+- **Master in Data Science** — Neural Academy, 2023 (Skills: Python (Pandas, NumPy, scikit-learn), R (ggplot2, xts, gstat), SQL, statistical modeling, regression, classification, clustering, deep learning with TensorFlow, data visualization (Matplotlib, Seaborn, Tableau), data engineering, ETL, EDA)
+- **Geospatial Analysis & Remote Sensing** — QGIS, ArcGIS, ER Mapper, eCognition, treatment of data and images from Sentinel and Landsat satellite
+- **Geological & Geophysical Surveys** — Thin-section analysis, XRD, SEM, seismic surveys, hazard prediction
+- **Language Certifications** — IELTS Academic B2 (English Fluent)
